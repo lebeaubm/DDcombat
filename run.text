@@ -1,0 +1,9 @@
+Run springboot is :   .\mvnw.cmd spring-boot:run
+
+
+
+
+
+one way to look at databases
+http://localhost:8002/h2-console/login.jsp?jsessionid=8413624658e56a4595f153ef343c39dd
+SELECT * FROM characters;
